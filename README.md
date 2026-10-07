@@ -215,4 +215,4 @@ Freeplane is a fully free software, providing you with the complete version, all
 Start your journey of creative mind mapping today with Freeplane! Download your free version now and unleash your potential!
 
 ---
-**Last updated:** 2026-10-06 20:01:56 UTC
+**Last updated:** 2026-10-07 00:25:55 UTC
